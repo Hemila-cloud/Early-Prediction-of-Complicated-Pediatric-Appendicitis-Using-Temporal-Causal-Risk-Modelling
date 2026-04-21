@@ -115,13 +115,13 @@ Ensemble Probability = mean(all model probabilities)
 | XGBoost        | 0.9172   | 0.9696 |
 | Random Forest  | 0.9299   | 0.9715 |
 | Logistic       | 0.8981   | 0.8913 |
-| **Ensemble**   | **0.9299** | **0.9712** |
+
 
 ---
 
 ##  Key Observations
 - **CatBoost achieved best individual performance**
-- Ensemble improves robustness across models
+
 - Temporal features significantly enhance prediction quality
 - Causal modeling improves interpretability
 - SMOTE improves minority class detection
