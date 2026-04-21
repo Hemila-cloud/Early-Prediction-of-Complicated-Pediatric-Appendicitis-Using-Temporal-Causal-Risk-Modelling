@@ -1,0 +1,3 @@
+Dataset: https://www.kaggle.com/datasets/joebeachcapital/regensburg-pediatric-appendicitis/suggestions
+
+System Architecture: https://canva.link/p466pdnd1bxoi0p
